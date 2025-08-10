@@ -1,6 +1,6 @@
-## 🧠 MeorBot — AI Content Detection Tool
+## 🧠 Echo Split — AI Content Detection Tool
 
-**Live Demo**: [meorbot.mdkvisionaryautomations.com](https://meorbot.mdkvisionaryautomations.com)
+**Live Demo**: [echosplit.mdkvisionaryautomations.com](https://echosplit.mdkvisionaryautomations.com)
 
 A privacy-focused web app for detecting whether content is likely AI-generated.
 
@@ -8,7 +8,7 @@ A privacy-focused web app for detecting whether content is likely AI-generated.
 
 ## 📚 Purpose
 
-I created **MeorBot** to offer a simple, accessible way to analyze whether text is human-written or AI-generated.
+I created **Echo Split** to offer a simple, accessible way to analyze whether text is human-written or AI-generated.
 As AI content becomes more common, I wanted to help writers, educators, and researchers make better decisions about content authenticity — without compromising privacy or speed.
 
 ---
@@ -31,7 +31,7 @@ As AI content becomes more common, I wanted to help writers, educators, and rese
 
 ## 🚀 Try It
 
-[Launch MeorBot →](https://meorbot.mdkvisionaryautomations.com)
+[Launch Echo Split →](https://echosplit.mdkvisionaryautomations.com)
 ✅ No login
 ✅ No tracking
 
